@@ -1,10 +1,11 @@
-# On branch servant.
+# On branch master.
 --------------------
-Kålpudding
-Köttsoppa med klimp
-Ugnsbakade rotfrukter.
-Kokta rödbetor
-Rödbetssallad
-Surkål och fläsk.
-Bruna bönor
-Sill och potatis.
+Att lära mig någoting hela tiden.
+Franska
+Git
+Linux
+Python
+C
+vscode
+Filemaker
+m.m
